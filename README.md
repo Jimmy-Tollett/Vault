@@ -15,11 +15,11 @@ Vault is a secure, cross-platform file encryption CLI built in **C#** with **.NE
 
 ## Download
 
-Prebuilt executables (no .NET install required) are available in the [`publish/`](publish/) folder:
-
-- **Windows** (`win-x64`) → `Vault.exe`  
-- **Linux** (`linux-x64`) → `Vault`  
-- **macOS** (`osx-x64`) → `Vault`  
+Official binaries are available on the [Releases page](https://github.com/Jimmy-Tollett/Vault/releases/latest):
+- [Windows](https://github.com/Jimmy-Tollett/Vault/releases/download/v1.0.0/Vault-win-x64.zip)
+- [Linux](https://github.com/Jimmy-Tollett/Vault/releases/download/v1.0.0/Vault-linux-x64.zip)
+- [MacOS (Intel Based)](https://github.com/Jimmy-Tollett/Vault/releases/download/v1.0.0/Vault-osx-x64.zip)
+- [MacOS (Apple Silicon)](https://github.com/Jimmy-Tollett/Vault/releases/download/v1.0.0/Vault-osx-arm64.zip)
 
 ---
 
