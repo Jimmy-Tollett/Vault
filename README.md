@@ -1,6 +1,6 @@
 # Vault
 
-Vault is a secure, cross-platform file encryption CLI built in **C#** with **.NET 9**, using [Spectre.Console](https://github.com/spectreconsole/spectre-console) for a modern terminal experience.
+Vault is a secure, cross-platform file encryption CLI built in **C#** with **.NET 9**, using [Spectre.Console](https://github.com/spectreconsole/spectre.console) for a modern terminal experience.
 
 
 ## Features
