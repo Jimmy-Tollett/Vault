@@ -1,7 +1,3 @@
-﻿// Description: This program encrypts user input and saves it to a file using AES encryption.
-// It generates a key based on user input and uses it to encrypt the data.
-// It also handles exceptions and provides feedback to the user.
-
 using System;
 using System.Security.Cryptography;
 using System.IO;
