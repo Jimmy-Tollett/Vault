@@ -38,7 +38,7 @@ You can:
 
 ---
 
-Try It Yourself
+## Try It Yourself
 
 Included in this repository is a sample encrypted file:
 
@@ -50,7 +50,7 @@ Decrypt it using Vault to reveal the full text of Lewis Carroll’s *Through the
 
 ---
 
-Build From Source
+## Build From Source
 
 You’ll need the .NET 9 SDK.
 
