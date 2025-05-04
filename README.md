@@ -3,7 +3,7 @@
 Vault is a secure, cross-platform file encryption CLI built in **C#** with **.NET 9**, using [Spectre.Console](https://github.com/spectreconsole/spectre-console) for a modern terminal experience.
 
 
-## 🔐 Features
+## Features
 
 - AES‑256‑GCM encryption with PBKDF2 (100,000 iterations + random salt)  
 - Secure password prompts with backspace and masking  
@@ -13,7 +13,7 @@ Vault is a secure, cross-platform file encryption CLI built in **C#** with **.NE
 
 ---
 
-## 📦 Download
+## Download
 
 Prebuilt executables (no .NET install required) are available in the [`publish/`](publish/) folder:
 
@@ -23,7 +23,7 @@ Prebuilt executables (no .NET install required) are available in the [`publish/`
 
 ---
 
-## 🚀 Usage
+## Usage
 
 Run Vault from your terminal and follow the prompts:
 
