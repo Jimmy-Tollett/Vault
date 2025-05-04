@@ -32,9 +32,9 @@ Run Vault from your terminal and follow the prompts:
 ```
 
 You can:
-	•	Encrypt a message or file into a secure binary
-	•	Decrypt a binary file using the correct password
-	•	Choose to output decrypted text to the console or save it
+- Encrypt a message or file into a secure binary
+- Decrypt a binary file using the correct password
+- Choose to output decrypted text to the console or save it
 
 ---
 
@@ -42,7 +42,8 @@ Try It Yourself
 
 Included in this repository is a sample encrypted file:
 
-📂 White Rabbit
+📂 White Rabbit 
+
 🔑 Passcode: Alice
 
 Decrypt it using Vault to reveal the full text of Lewis Carroll’s *Through the Looking-Glass*.
